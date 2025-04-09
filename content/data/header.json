@@ -1,6 +1,5 @@
 {
     "logo": {
-        "url": "/images/image_123650291.JPG",
         "altText": "XpertAI",
         "styles": {
             "self": {
@@ -19,6 +18,17 @@
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
+        },
+        {
+            "type": "Link",
+            "label": "Instagram",
+            "altText": "Instagram",
+            "url": "https://www.instagram.com/xpertai_team/",
+            "showIcon": true,
+            "icon": "instagram",
+            "iconPosition": "left",
+            "style": "secondary",
+            "elementId": ""
         }
     ],
     "secondaryLinks": [

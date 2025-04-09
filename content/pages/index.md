@@ -483,11 +483,10 @@ sections:
       submitButton:
         type: SubmitButtonFormControl
         label: Submit
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         style: primary
-        elementId: null
     badge:
       label: Contact Us
       color: text-primary
