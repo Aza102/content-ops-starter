@@ -14,9 +14,16 @@ sections:
       - title: Trial
         price: Free Demo
         details: ''
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: >+
+          *   **Experience our AI tools firsthand**
+
+
+          *   **No obligation, no cost**
+
+
+          *   **Get personalized insights into how AI can transform your
+          business**
+
         features: []
         image:
           url: /images/abstract-feature1.svg
