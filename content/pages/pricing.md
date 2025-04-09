@@ -28,7 +28,7 @@ sections:
           type: ImageBlock
         actions:
           - label: Try for free
-            url: /
+            url: 'https://www.instagram.com/xpertai_team/'
             icon: arrowRight
             iconPosition: right
             style: secondary
