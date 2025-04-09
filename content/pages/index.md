@@ -329,7 +329,7 @@ sections:
     subtitle: 'Check this out:'
     items:
       - title: AI-Powered Chatbots
-        tagline: This is the tagline
+        tagline: ''
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first Netlify Create site.
