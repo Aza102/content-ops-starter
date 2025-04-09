@@ -120,7 +120,7 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: 200%
+      - title: Scale Your Business Without Extra Overhead
         subtitle: Faster
         text: >+
           Our AI automation tools grow with your business. From small startups
