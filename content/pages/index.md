@@ -219,7 +219,7 @@ sections:
     type: DividerSection
   - type: CarouselSection
     title: null
-    subtitle: What our customers say about us
+    subtitle: 'What our customers say about us:'
     items:
       - title: >-
           Working with Xpert Ai Team has been a game-changer for our business.
