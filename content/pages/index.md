@@ -282,7 +282,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          AI automation from [Your Agency Name] has allowed us to scale our
+          AI automation from Xpert Ai Team has allowed us to scale our
           operations without the need for additional staff. The lead generation
           tools have been invaluable in capturing high-quality prospects, and
           our sales pipeline has never been more robust. They truly understand
