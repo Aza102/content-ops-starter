@@ -229,10 +229,7 @@ sections:
           freeing up our team to focus on strategy and growth.
         tagline: Testimonial 1
         subtitle: John S. | CEO of Tech Innovators
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: ''
         image:
           url: /images/person-placeholder-light.png
           altText: John Seens
