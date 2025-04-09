@@ -14,15 +14,12 @@ sections:
       - title: Trial
         price: Free Demo
         details: ''
-        description: >+
-          *   **Experience our AI tools firsthand**
+        description: |+
+          *   Experience our AI tools firsthand
 
+          *   No obligation, no cost
 
-          *   **No obligation, no cost**
-
-
-          *   **Get personalized insights into how AI can transform your
-          business**
+          *   Get personalized insights into how AI can transform your business
 
         features: []
         image:
