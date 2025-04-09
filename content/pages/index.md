@@ -222,8 +222,11 @@ sections:
     subtitle: What our customers say about us
     items:
       - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+          Working with [Your Agency Name] has been a game-changer for our
+          business. Their AI-driven chatbots and lead generation solutions have
+          significantly improved our customer engagement and conversion rates.
+          We're now able to automate tasks that used to take up hours each day,
+          freeing up our team to focus on strategy and growth.
         tagline: Testimonial 1
         subtitle: John S. | CEO of Tech Innovators
         text: >-
