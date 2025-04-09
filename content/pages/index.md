@@ -24,15 +24,6 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: ''
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
     media:
       url: >-
         /images/LittleRobot_with_white_border_5615b68c-1331-4d7f-9210-e794f6e6a11a_large.webp
