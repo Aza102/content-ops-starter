@@ -53,7 +53,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: We help
+    subtitle: 'Helping Businesses Automate, Scale, and Thrive with AI-Driven Solutions'
     items:
       - type: FeaturedItem
         title: Enhance Efficiency & Save Time
