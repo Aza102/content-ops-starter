@@ -258,7 +258,7 @@ sections:
           satisfaction and response times. We couldn't be more pleased with the
           results!
         tagline: Testimonial 2
-        subtitle: 'John Doe, Company'
+        subtitle: Emily R. | Marketing Director at GreenTech Solutions
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
