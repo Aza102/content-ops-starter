@@ -67,10 +67,11 @@ sections:
       - type: FeaturedItem
         title: Enhance Efficiency & Save Time
         subtitle: 10 hours saved
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Automate routine tasks like customer support, lead qualification, and
+          data management with AI-driven solutions. Free up valuable time for
+          your team to focus on strategic initiatives and high-impact
+          activities.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
