@@ -80,9 +80,15 @@ sections:
       - title: Annual Plan
         price: $15000
         details: per month
-        description: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam.
+        description: |+
+          *   (Save $3,000 compared to the monthly plan)
+
+          *   All features from the monthly plan
+
+          *   Priority support
+
+          *   Dedicated account manager for personalized assistance
+
         features:
           - Feature one
           - Feature two
