@@ -121,7 +121,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: Scale Your Business Without Extra Overhead
-        subtitle: Faster
+        subtitle: ''
         text: >+
           Our AI automation tools grow with your business. From small startups
           to large enterprises, our solutions allow you to scale operations
