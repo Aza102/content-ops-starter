@@ -47,7 +47,7 @@ sections:
             borderRadius: large
         type: PricingPlan
       - title: Monthly Plan
-        price: $99
+        price: $2500
         details: per month
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
