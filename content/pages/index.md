@@ -288,7 +288,7 @@ sections:
           our sales pipeline has never been more robust. They truly understand
           how to use AI to drive business growth.
         tagline: Testimonial 3
-        subtitle: 'Maria Walters, Company'
+        subtitle: Michael T. | Founder of Modern Retail Co.
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
