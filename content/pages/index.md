@@ -24,7 +24,7 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: See Tutori
+      - label: See Tuto
         altText: ''
         url: /
         showIcon: true
