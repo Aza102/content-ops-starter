@@ -49,9 +49,15 @@ sections:
       - title: Monthly Plan
         price: $2500
         details: per month
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: |+
+          *   Full access to all AI automation tools
+
+          *   Includes chatbots, voice agents, lead generation, and analytics
+
+          *   24/7 customer support and continuous updates
+
+
+
         features: []
         image:
           url: /images/abstract-feature2.svg
