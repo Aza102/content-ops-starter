@@ -89,8 +89,7 @@ sections:
 
           *   Dedicated account manager for personalized assistance
 
-        features:
-          - Feature one
+        features: []
         image:
           url: /images/abstract-feature3.svg
           altText: Pricing plan 3
