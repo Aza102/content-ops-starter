@@ -331,8 +331,15 @@ sections:
       - title: AI-Powered Chatbots
         tagline: ''
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: |+
+          *   Automate customer support and engagement 24/7
+
+          *   Personalized, conversational experiences for users
+
+          *   Easy integration with websites, messaging apps, and more
+
+
+
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder Image
