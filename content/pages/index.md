@@ -96,10 +96,11 @@ sections:
               borderRadius: x-large
       - title: Boost Lead Generation & Conversions
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Capture and nurture leads effortlessly with AI-powered chatbots and
+          voice agents. Our solutions engage prospects around the clock,
+          ensuring no opportunity is missed and helping you convert more leads
+          into loyal customers.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
