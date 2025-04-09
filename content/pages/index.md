@@ -235,7 +235,7 @@ sections:
           explicabo.
         image:
           url: /images/person-placeholder-light.png
-          altText: Maria Walters
+          altText: John Seens
           styles:
             self:
               borderRadius: full
