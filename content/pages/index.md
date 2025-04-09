@@ -8,10 +8,12 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Empowering Businesses with AI-Powered Automation
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      Boost your business with XPERT's AI automation services. We offer
+      tailor-made chatbots, voice agents, and lead generation systems to
+      automate tasks, enhance customer engagement, and accelerate growth. Let us
+      help you unlock the future of business automation—contact us today.
+
     actions:
       - label: Get started
         altText: ''
