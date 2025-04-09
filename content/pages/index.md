@@ -361,8 +361,15 @@ sections:
       - title: Feature Item Two
         tagline: ''
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+        text: |+
+          *   AI-driven voice solutions for handling customer calls
+
+          *   Seamless integration with your existing phone systems
+
+          *   Available anytime to provide consistent, efficient service
+
+
+
         image:
           url: /images/abstract-feature2.svg
           altText: Placeholder image
