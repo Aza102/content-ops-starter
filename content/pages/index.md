@@ -439,7 +439,7 @@ sections:
       text: Generic Section With A Form
       color: text-dark
       type: TitleBlock
-    subtitle: Section with a form subtitle
+    subtitle: ''
     text: >
 
       Fill out the form below, and one of our experts will reach out to discuss
