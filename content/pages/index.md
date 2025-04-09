@@ -282,8 +282,11 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is how it works, how it functions. Good design doesn't just
-          make a product aesthetically pleasing, it makes it a pleasure to use."
+          AI automation from [Your Agency Name] has allowed us to scale our
+          operations without the need for additional staff. The lead generation
+          tools have been invaluable in capturing high-quality prospects, and
+          our sales pipeline has never been more robust. They truly understand
+          how to use AI to drive business growth.
         tagline: Testimonial 3
         subtitle: 'Maria Walters, Company'
         text: >-
