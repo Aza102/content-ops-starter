@@ -53,7 +53,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: We help
     items:
       - type: FeaturedItem
         title: Enhance Efficiency & Save Time
