@@ -34,7 +34,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/Why are you ignoring Dm (5).png
+      url: /images/avatar1.svg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
