@@ -62,7 +62,7 @@ sections:
           type: ImageBlock
         actions:
           - label: Contact us
-            url: /
+            url: 'https://www.instagram.com/xpertai_team/'
             icon: arrowRight
             iconPosition: right
             style: secondary
