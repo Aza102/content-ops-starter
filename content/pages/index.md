@@ -252,7 +252,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          The voice agents implemented by [Your Agency Name] have completely
+          The voice agents implemented by Xpert Ai team have completely
           transformed the way we handle customer inquiries. Our customers love
           the seamless experience, and we’ve seen a sharp increase in
           satisfaction and response times. We couldn't be more pleased with the
