@@ -13,7 +13,7 @@ sections:
     plans:
       - title: Trial
         price: Free Demo
-        details: No credit card require
+        details: ''
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
