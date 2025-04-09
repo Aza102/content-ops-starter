@@ -252,8 +252,11 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is a plan for arranging elements in such a way as best to
-          accomplish a particular purpose."
+          The voice agents implemented by [Your Agency Name] have completely
+          transformed the way we handle customer inquiries. Our customers love
+          the seamless experience, and we’ve seen a sharp increase in
+          satisfaction and response times. We couldn't be more pleased with the
+          results!
         tagline: Testimonial 2
         subtitle: 'John Doe, Company'
         text: >-
