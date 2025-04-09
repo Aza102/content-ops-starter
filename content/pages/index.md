@@ -391,9 +391,19 @@ sections:
       - title: Automated Lead Generation
         tagline: ''
         subtitle: ''
-        text: >
-          Learn from the tutorial and build your first awesome Netlify Create
-          site.
+        text: >+
+          *   Capture and qualify leads 24/7 with AI-driven tools.
+
+
+          *   Nurture leads through automated follow-ups and personalized
+          communication.
+
+
+          *   Increase conversion rates by streamlining lead management and
+          ensuring no opportunity is missed.
+
+
+
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder image
