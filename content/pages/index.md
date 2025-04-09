@@ -328,7 +328,7 @@ sections:
       type: TitleBlock
     subtitle: 'Check this out:'
     items:
-      - title: Feature Item One
+      - title: AI-Powered Chatbots
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
